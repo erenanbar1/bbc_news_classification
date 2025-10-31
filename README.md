@@ -1,4 +1,4 @@
-### brief summary
+### Summary
 data directory contains the dataset. Bernoulli Naive Bayes model and Multinomial Naive Bayes model implemented with optional additive smoothing. Run q3main.py to see accuracy and confusion matrix. 
 
 ### 1 create virtual env
